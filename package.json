@@ -6,7 +6,8 @@
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
-		"format": "biome format ./ --write",
+		"format": "biome format ./",
+		"format-write": "biome format ./ --write",
 		"lint": "biome lint ./ --apply",
 		"test": "vitest run",
 		"prepare": "husky"
