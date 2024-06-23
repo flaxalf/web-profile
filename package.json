@@ -8,7 +8,8 @@
 		"start": "next start",
 		"format": "biome format ./ --write",
 		"lint": "biome lint ./ --apply",
-		"test": "vitest"
+		"test": "vitest run",
+		"prepare": "husky"
 	},
 	"dependencies": {
 		"next": "14.2.4",
@@ -22,6 +23,7 @@
 		"@types/react": "^18.3.3",
 		"@types/react-dom": "^18.3.0",
 		"@vitejs/plugin-react": "^4.3.1",
+		"husky": "^9.0.11",
 		"jsdom": "^24.1.0",
 		"postcss": "^8.4.38",
 		"tailwindcss": "^3.4.4",
