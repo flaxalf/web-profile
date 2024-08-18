@@ -10,5 +10,5 @@ author: flax
 ## wondering about storytelling
 
 ## you can connect with me here
-- [linkedin](https://www.linkedin.com/in/iamkathan/)
+- [linkedin](https://www.linkedin.com/in/flavioscaccia/)
 - [@flax](mailto:social.flavios@gmail.com)
